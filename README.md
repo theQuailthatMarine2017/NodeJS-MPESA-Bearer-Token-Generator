@@ -1,5 +1,5 @@
 # NodeJS-MPESA-Bearer-Token-Generator CLI Client
-A NodeJS client that uses npm package **mpesa-auth-token-generator** that generates bearer token for mpesa api auth header requests for both sandbox and production environments.
+A NodeJS client that uses npm package **mpesa-auth-token-generator** to generates bearer authorization header token for mpesa api auth header requests for both sandbox and production environments.
 
 REQUIREMENTS: NODEJS and NPM INSTALLED!
 
