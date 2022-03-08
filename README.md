@@ -2,6 +2,8 @@
 A NodeJS Package that generates bearer token for mpesa api auth header requests for both sandbox and production environments
 This Nodejs package generates bearer auth token for both production and sandbox environments allowing users who need to make use of the mpesa api to quickly generator their bearer token without too much  hassle setting up manually. 
 
+REQUIREMENTS: NODEJS and NPM INSTALLED!
+
 All you need to do is:
 
 	1.	Git clone the project
